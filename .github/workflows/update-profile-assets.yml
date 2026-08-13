@@ -1,0 +1,45 @@
+name: Update profile assets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-profile-assets.yml"
+      - "scripts/build-profile-assets.mjs"
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Build profile SVG assets
+        run: node scripts/build-profile-assets.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: DilbirinErdem
+
+      - name: Commit updated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg assets/github-snake.svg
+          if git diff --cached --quiet; then
+            echo "Profile assets are already up to date."
+          else
+            git commit -m "Update profile assets"
+            git push
+          fi

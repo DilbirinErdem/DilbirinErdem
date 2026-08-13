@@ -51,10 +51,14 @@ I care about systems that are not only built, but also understood, shipped, obse
 - Keep operations close to development: logs, health checks, deploy evidence, and rollback paths matter.
 - Turn field experience into calmer software decisions.
 
-## GitHub Snapshot
+## GitHub Stats
 
-| Signal | Focus |
-| --- | --- |
-| Profile README | Product engineering, AI/ERP, full-stack, and production operations |
-| Public work | GitHub profile plus JavaScript/Gatsby landing-page starter |
-| Engineering style | Read the system, protect contracts, ship in verifiable steps |
+<p align="center">
+  <img alt="Dilbirin Erdem GitHub Stats" src="./assets/github-stats.svg">
+</p>
+
+## GitHub Snake Graph
+
+<p align="center">
+  <img alt="Dilbirin Erdem GitHub Snake Graph" src="./assets/github-snake.svg">
+</p>
