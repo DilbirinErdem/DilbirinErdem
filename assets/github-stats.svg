@@ -8,7 +8,7 @@
     <g>
       <rect x="32" y="96" width="246" height="68" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
       <text x="50" y="123" fill="#57606a" font-size="13">Contributions, last year</text>
-      <text x="50" y="149" fill="#1a7f37" font-size="24" font-weight="700">158</text>
+      <text x="50" y="149" fill="#1a7f37" font-size="24" font-weight="700">159</text>
     </g>
   
     <g>
@@ -32,7 +32,7 @@
     <g>
       <rect x="307" y="174" width="246" height="68" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
       <text x="325" y="201" fill="#57606a" font-size="13">Active contribution days</text>
-      <text x="325" y="227" fill="#1a7f37" font-size="24" font-weight="700">30</text>
+      <text x="325" y="227" fill="#1a7f37" font-size="24" font-weight="700">32</text>
     </g>
   
     <g>
