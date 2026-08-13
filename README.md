@@ -54,11 +54,5 @@ I care about systems that are not only built, but also understood, shipped, obse
 ## GitHub Stats
 
 <p align="center">
-  <img alt="Dilbirin Erdem GitHub Stats" src="./assets/github-stats.svg">
-</p>
-
-## GitHub Snake Graph
-
-<p align="center">
-  <img alt="Dilbirin Erdem GitHub Snake Graph" src="./assets/github-snake.svg">
+  <img src="https://github.com/DilbirinErdem/DilbirinErdem/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Graph" style="max-width: 100%;">
 </p>
