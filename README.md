@@ -14,7 +14,29 @@
   <a href="https://www.instagram.com/dilbirin.erdem">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-dilbirin.erdem-E4405F?style=flat-square">
   </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=DilbirinErdem&label=Profile%20views&color=0969da&style=flat-square">
 </p>
+
+## Traffic Hub
+
+<p align="center">
+  <a href="https://github.com/DilbirinErdem?tab=repositories"><strong>Explore repositories</strong></a>
+  ·
+  <a href="https://github.com/DilbirinErdem/DilbirinErdem"><strong>Profile source</strong></a>
+  ·
+  <a href="mailto:dilbirin649@gmail.com"><strong>Contact</strong></a>
+</p>
+
+<!-- DAILY_SIGNAL_START -->
+## Daily Signal
+
+Updated: 13 Aug 2026
+
+- Focus: AI-assisted ERP and pre-accounting product workflows.
+- Public profile signals: 2 public repositories, 2 followers, 160 contributions in the last year.
+- Top visible language: JavaScript.
+- Start here: [automatic-gatsbyjs-app-landing-page](https://github.com/DilbirinErdem/automatic-gatsbyjs-app-landing-page) - Gatsby starter for a mobile app landing page with Netlify and GitHub Pages deployment support.
+<!-- DAILY_SIGNAL_END -->
 
 ## About
 
