@@ -53,10 +53,8 @@ I care about systems that are not only built, but also understood, shipped, obse
 
 ## GitHub Snapshot
 
-<p align="center">
-  <img alt="Dilbirin Erdem GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DilbirinErdem&show_icons=true&hide_border=true&theme=default">
-</p>
-
-<p align="center">
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilbirinErdem&layout=compact&hide_border=true&theme=default">
-</p>
+| Signal | Focus |
+| --- | --- |
+| Profile README | Product engineering, AI/ERP, full-stack, and production operations |
+| Public work | GitHub profile plus JavaScript/Gatsby landing-page starter |
+| Engineering style | Read the system, protect contracts, ship in verifiable steps |
