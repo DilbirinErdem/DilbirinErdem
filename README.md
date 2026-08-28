@@ -30,10 +30,10 @@
 <!-- DAILY_SIGNAL_START -->
 ## Daily Signal
 
-Updated: 27 Aug 2026
+Updated: 28 Aug 2026
 
-- Focus: LLM orchestration for practical business automation.
-- Public profile signals: 2 public repositories, 2 followers, 248 contributions in the last year.
+- Focus: AI-assisted ERP and pre-accounting product workflows.
+- Public profile signals: 2 public repositories, 2 followers, 251 contributions in the last year.
 - Top visible language: JavaScript.
 - Start here: [automatic-gatsbyjs-app-landing-page](https://github.com/DilbirinErdem/automatic-gatsbyjs-app-landing-page) - Gatsby starter for a mobile app landing page with Netlify and GitHub Pages deployment support.
 <!-- DAILY_SIGNAL_END -->
